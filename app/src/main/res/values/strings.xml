@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">The Movies Database Top Movies</string>
+    <string name="movie_title_text">Movie Title</string>
+    <string name="release_date_lbl">Release date</string>
+    <string name="release_date_text">Release date</string>
+    <string name="vote_avg_lbl">Vote Avg</string>
+    <string name="default_vote_avg_value">0.0</string>
+    <string name="detail_overview">Detail overview</string>
+    <string name="detail_release_date">&lt;b>Release date: &lt;/b>%1$s</string>
+    <string name="detail_vote_average">&lt;b>Vote average: &lt;/b>%1$s</string>
+</resources>
